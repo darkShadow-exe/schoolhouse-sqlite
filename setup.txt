@@ -1,3 +1,3 @@
 sudo apt update
 sudo apt install sqlite3 libsqlite3-dev
-sqlite longlist.db
+sqlite3 longlist.db
